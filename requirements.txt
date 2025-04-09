@@ -1,0 +1,5 @@
+Flask==2.3.2
+pytube==15.0.0
+instaloader==4.9.6
+requests==2.31.0
+tqdm==4.66.1
